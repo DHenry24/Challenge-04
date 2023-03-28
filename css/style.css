@@ -1,5 +1,5 @@
 body {
-  background-color: whitesmoke;
+  background-color: white;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -40,12 +40,12 @@ header {
   height: 100%;
   padding: 10px;
   border: 1px solid white;
-  
+  color: grey;
   border-radius: 5px;
 }
 
 .past {
-  background-color: white;
+  background-color: whitesmoke;
 }
 
 .present {
